@@ -2,7 +2,8 @@
 # URL: https://localhost.rollout.io:9000/ex/5bec19bdc386074ab37db281
 flag: FirstFlag
 type: experiment
-name: first flaga
+name: first flag
+archived: true
 description: fdas
 labels: lbl2
 platforms:
