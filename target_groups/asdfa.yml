@@ -1,0 +1,6 @@
+type: target-group
+name: asdfa
+conditions:
+  - operator: ne
+    property: rox.platform
+    operand: fdsafd
