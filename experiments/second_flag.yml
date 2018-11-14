@@ -4,4 +4,4 @@ flag: second_flag
 type: experiment
 name: second flag2
 labels: lbl2
-value: false
+value: true
