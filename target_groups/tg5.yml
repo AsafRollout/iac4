@@ -1,9 +1,7 @@
 type: target-group
 name: tg5
 conditions:
-  - operator: in-array
+  - operator: ne
     property: rox.platform
-    operand:
-      - fdsa
-      - faaa
+    operand: fdsfdsa
 description: fdsfdasfad
