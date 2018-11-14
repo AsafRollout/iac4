@@ -1,0 +1,6 @@
+type: target-group
+name: zzz
+conditions:
+  - operator: ne
+    property: rox.platform
+    operand: qwer
