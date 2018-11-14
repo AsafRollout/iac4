@@ -3,4 +3,5 @@
 flag: second_flag
 type: experiment
 name: second flag
+archived: true
 value: false
