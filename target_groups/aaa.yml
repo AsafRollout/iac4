@@ -1,0 +1,6 @@
+type: target-group
+name: aaa
+conditions:
+  - operator: ne
+    property: rox.platform
+    operand: lie
