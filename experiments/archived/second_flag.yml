@@ -1,7 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://localhost.rollout.io:9000/ex/5bec09b08d450743b150621a
-flag: second_flag
-type: experiment
-name: second flag
-archived: true
-value: false
