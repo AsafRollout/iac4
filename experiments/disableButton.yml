@@ -1,5 +1,5 @@
 # This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5b2bed639f60af15d7773def
+# URL: https://localhost.rollout.io:9000/ex/5bec19b9c386074ab37db26e
 flag: disableButton
 type: experiment
 name: disable button8
@@ -9,3 +9,9 @@ platforms:
     value:
       - option: true
         percentage: 50
+conditions:
+  - value:
+      - option: true
+        percentage: 100
+        from: 2018-11-26T00:00:00.000Z
+value: false
