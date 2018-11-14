@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5b619354a3e41f15e4caaa32
+flag: FirstFlag
+type: experiment
+name: first flag
+platforms:
+  - name: .NET
+    value: false
