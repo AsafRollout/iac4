@@ -8,4 +8,4 @@ labels: lbl2
 platforms:
   - name: .NET
     value: false
-value: true
+value: false
