@@ -1,0 +1,11 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5b2bed639f60af15d7773def
+flag: disableButton
+type: experiment
+name: disable button8
+description: '1236'
+platforms:
+  - name: tvOS
+    value:
+      - option: true
+        percentage: 50
