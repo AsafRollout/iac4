@@ -3,4 +3,4 @@
 flag: second_flag
 type: experiment
 name: second flag
-value: true
+value: false
